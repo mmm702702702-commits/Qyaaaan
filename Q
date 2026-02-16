@@ -1,0 +1,14 @@
+package.json
+{
+  "name": "super-mod-bot",
+  "version": "1.0.0",
+  "description": "Powerful Discord bot with moderation and tickets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "quick.db": "^9.0.0"
+  }
+}
